@@ -1,6 +1,6 @@
 # Excel_Vrinda_Store_Analysis
 
-I am thrilled to share my new data analysis project in Excel. I made this annual sales report for "Vrinda Store".
+I made this annual sales report for "Vrinda Store".
 
 In this dashboard, I visualize key performing factors for this E-commerce store in 2023.
 
